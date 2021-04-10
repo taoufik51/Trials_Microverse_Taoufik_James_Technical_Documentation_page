@@ -6,6 +6,7 @@ body{
       background-color: rgb(5,173,162);
       color: black;
       margin: auto;
+	text-align: center;
 }
 
 
@@ -16,7 +17,7 @@ body{
   position:fixed;
   height: 100%;
   min-width:290px;
-  width: 290px;
+  width: 300px;
 
   top:1px;
   left:0px;
